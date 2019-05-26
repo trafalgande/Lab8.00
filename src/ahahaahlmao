@@ -1,0 +1,3 @@
+public class lmao {
+  System.out.println("You got lmaoed");
+}
