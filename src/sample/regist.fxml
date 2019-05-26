@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="307.0" prefWidth="341.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.RegistController">
+    <children>
+        <Label layoutX="93.0" layoutY="91.0" text="%login.second" />
+        <TextField fx:id="loginReg" layoutX="93.0" layoutY="112.0" />
+      <Button fx:id="startButtReg" layoutX="127.0" layoutY="183.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="88.0" text="%goBut.any" />
+    </children>
+</AnchorPane>
